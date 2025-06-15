@@ -2,7 +2,7 @@
 # coding: utf-8
 # numpy 的 array 操作
 
-# 1. 导入 numpy 库
+# 1. 导入 numpy 库.
 import numpy as np                    # 将 numpy 库命名为 np
 import matplotlib.pyplot as plt       # 仅保留需要使用的导入
 # import 放一起代码美观
